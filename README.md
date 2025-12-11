@@ -19,10 +19,9 @@ UI Performance Optimization | Frontend Architect | 7+ Years Experience
 
 - 🔥 7+ years of architecting & delivering production-grade, scalable web applications across enterprise ecosystems
 - ⚛️ Hands-on specialist in React.js & Next.js, with deep mastery of Redux, Recoil, TypeScript, performance tuning, and component architecture
-- 👨‍💻 Senior Consultant at Xebia it architects, leading frontend execution, mentoring developers, and working closely with business teams to turn requirements into stable, scalable UI solutions
+- 👨‍💻 Senior Consultant at ** Xebia it architects** , leading frontend execution, mentoring developers, and working closely with business teams to turn requirements into stable, scalable UI solutions
 - ⚡ Performance-first engineer — skilled in reducing bundle size, optimizing rendering, enabling code-splitting, caching strategies, SSR/SSG, and building apps that feel instant
 - 🧱 Experience shaping micro-frontend platforms, reusable UI systems, and engineering foundations used by multiple teams
-- 👨‍💻 Senior Consultant at **Guardian Life**  
 - 🤝 Engineering mentor & team enabler — I enjoy uplifting my team, improving code quality standards, and driving best practices
 - 🌟 Open to impactful opportunities that align with my expertise in React, Next.js, Node js, Javascript, performance engineering, and frontend system design.
 
