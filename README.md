@@ -36,6 +36,25 @@ UI Performance Optimization | Frontend Architect | 7+ Years Experience
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+
+---
+
+### **Advanced Frontend Ecosystem**
+![Redux Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-007AF3?style=for-the-badge&logo=recoil&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-323232?style=for-the-badge&logo=react&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-6BDB8B?style=for-the-badge&logo=jotai&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -44,9 +63,21 @@ UI Performance Optimization | Frontend Architect | 7+ Years Experience
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Proxy Middleware](https://img.shields.io/badge/Proxy%20Middleware-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
+### **Performance & Debugging Tools**
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![React Profiler](https://img.shields.io/badge/React%20Profiler-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux DevTools](https://img.shields.io/badge/Redux%20DevTools-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Web Vitals](https://img.shields.io/badge/Web%20Vitals-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Source Map Explorer](https://img.shields.io/badge/Source%20Map%20Explorer-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Bundle Analyzer](https://img.shields.io/badge/Bundle%20Analyzer-4CAF50?style=for-the-badge&logo=webpack&logoColor=white)
+![Performance API](https://img.shields.io/badge/Performance%20API-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### **Testing**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -68,13 +99,7 @@ UI Performance Optimization | Frontend Architect | 7+ Years Experience
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🛠 Tech Stack & Tools
 
-### **Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,sass,tailwind" />
-</p>
 
-### **Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,expr
+
+
