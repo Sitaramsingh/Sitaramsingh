@@ -99,6 +99,49 @@ UI Performance Optimization | Frontend Architect | 7+ Years Experience
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45px"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45px"/>
+  </a>
+  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45px"/>
+  </a>
+</p>
+
+
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 
 
